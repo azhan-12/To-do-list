@@ -12,7 +12,7 @@ body {
     text-align: center;
     max-width: 600px;
     margin: 200px auto;
-    width: 50%;
+    width: 85%;
     height: auto;
     min-height: 200px;
     border: none;
@@ -33,8 +33,8 @@ body {
 
 .input {
     margin: 20px 0px 0 23px;
-    width: 70%;
-    height: 40px;
+    width: 80%;
+    height: 30px;
     border: 1px solid #000000;
     border-radius: 5px;
     padding: 0 10px;
@@ -45,12 +45,12 @@ body {
 .butn {
     margin: 20px 16px 20px 10px;
     width: 20%;
-    height: 40px;
+    height: 30px;
     border: 1px solid #d93a3a;
     border-radius: 8px;
     background-color: #d93a3a;
     color: white;
-    font-size: 18px;
+    font-size: 17px;
     cursor: pointer;
     box-shadow: 
       inset 2px 2px 5px rgba(255, 255, 255, 0.3),
@@ -87,7 +87,7 @@ ul {
 
 .outputtext {
     width: 78%;
-    height: 40px;
+    height: 30px;
     border: 1px solid #000000;
     border-radius: 5px;
     align-content: center;
@@ -109,8 +109,8 @@ ul {
     border: none;
     width: 8%;
     margin: 0 0px 0 2%;
-    height: 40px;
-    font-size: 18px;
+    height: 30px;
+    font-size: 15px;
     border-radius: 8px;
     cursor: pointer;
     box-shadow: 
