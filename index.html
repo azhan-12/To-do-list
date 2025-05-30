@@ -12,7 +12,8 @@
     <div class="container">
         <h1 class="heading">TO-DO LIST</h1>
         <div class="input-con">
-            <input class="input" type="text" placeholder="Enter Your Task">
+            <!-- <input class="input" type="text" placeholder="Enter Your Task" onkeypress="if(event.key === 'Enter') adding()"> -->
+            <input class="input" type="text" placeholder="Enter Your Task" onkeypress="if(event.keyCode==13) adding()">
             <button class="butn" onclick="adding()">Add</button>
         </div>
         <div class="output">
